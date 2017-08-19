@@ -15,7 +15,7 @@ title: Home
   <p> {{ post.description }}
     {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
 <!--    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span> -->
-    <span class="post-date" style="margin-top:3px"> {{ post.date | date_to_string }} - {% include read-time.html %} - {{ post.author }}</span>
+    <span class="post-date" style="margin-top:3px"> {{ post.date | date_to_string }} - {% include read-time.html %} - von {{ post.author }}</span>
 <!--This is a comment. Comments are not displayed in the browser-->
   </p>
 </div>
