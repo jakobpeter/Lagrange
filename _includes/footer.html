@@ -5,10 +5,11 @@
     <p> <a href="https://lenpaul.github.io/Lagrange/"> Design based on Jekyll theme Lagrange </a></p> </div> -->
  <div class="post-date"><a href="{{ site.github.url }}/menu/about.html"> {{ site.data.settings.tagline }} </a></div>
   <br> 
-    {% for item in site.data.settings.social %}
+    <div class="post-date"><a href="https://lenpaul.github.io/Lagrange/"> Design based on Jekyll theme Lagrange </a> </div>
+   <br>
+{% for item in site.data.settings.social %}
     <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
   {% endfor %}
-    <br>
-    <div class="post-date"><a href="https://lenpaul.github.io/Lagrange/"> Design based on Jekyll theme Lagrange </a> </div>
+    
  
 </footer>
