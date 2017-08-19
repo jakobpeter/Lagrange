@@ -5,7 +5,7 @@ date: 2017-08-11 13:25:00 +02:00
 ---
 
 2016 war das wärmste Jahr seit Beginn der Wetteraufzeichnungen. Und Juli 2017 der heißeste Monat. Obwohl El Nino vorbei ist. Der US-Präsident sabotiert Klimaschutz und Deutschland ist wegen niedrigen CO2-Preisen Braunkohle-Weltmeister. Extreme Unwetter nehmen zu und die Gletscher und Pole schmelzen uns davon. Die seit drei Jahren anhaltende Dürre in Afrika und der Bürgerkrieg in Syrien sind ist potentiell nur ein Vorgeschmack für zukünftige Klimakrisen. 
-<center><img src="/uploads/spiral_optimized.gif" style="width:40%"></center>
+
 <br>
 
 
