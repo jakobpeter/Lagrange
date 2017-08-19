@@ -1,5 +1,6 @@
 ---
 title: 'Bundestagswahl 2017: Wir müssen über Klimapolitik reden'
+description: "Es ist höchste Zeit, denn die Gletscher schmelzen uns davon. Read this post!"
 author: "Sebastian Kraus"
 date: 2017-08-11 13:25:00 +02:00
 ---
