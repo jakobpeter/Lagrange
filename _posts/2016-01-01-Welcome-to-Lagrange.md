@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Welcome to Lagrange!"
+description: "Chalk is a high quality, completely customizable, performant and 100% free blog template for Jekyll."
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
