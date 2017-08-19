@@ -19,8 +19,9 @@ layout: default
   {% else %}
     {{ site.data.settings.author.name }}
   {% endif %} |
-  {{ page.date | date: "%Y" }}
+<!--  {{ page.date | date: "%Y" }} -->
 <!--  {{ page.date | date: "%-d.%m.%Y" }}-->
+{{ post.date | date: "%-d.%m.%Y" }} 
   
 </span>
 
