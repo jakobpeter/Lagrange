@@ -198,7 +198,8 @@ blockquote p {
 .footer {
   color: #999;
   text-align: center;
-  margin: 2rem;
+/* JPE margin: 2rem; */
+  margin: 1.5rem;
 }
 
 .footer a {
