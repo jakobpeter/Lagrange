@@ -22,7 +22,7 @@ layout: default
 <!--  {{ page.date | date: "%Y" }} -->
 <!--  {{ page.date | date: "%-d.%m.%Y" }}-->
 {{ page.date | date: "%-d.%m.%Y" }} &nbsp;|&nbsp;
-{% for tag in post.tags %}{{ tag }} &nbsp; {% endfor %}
+{% for tag in page.tags %}{{ tag }} &nbsp; {% endfor %}
   
 </span>
 
