@@ -19,6 +19,6 @@ Ende September ist Bundestagswahl. Deshalb müssen wir über Klimapolitik reden.
 
 
 klimawahl2017 ist eine Arena für Klimapolitik-Ansätze. Ein Blog mit Analysen und Interviews zu Klimathemen bei der Bundestagswahl 2017. Wir sind eine Gruppe von Forschern, Journalisten und Experten mit Fokus Energie & Klima. Wir sind unabhängig und unsere Beiträge belegen wir mit Links und Quellen. Das grundsätzliche Problembewusstsein für den Klimawandel ist parteienlos, mit Ausnahme der AfD - Klimapolitik jedoch nicht. Wir möchten verstehen, über welche Klimapolitik für die nächste Legislaturperiode wir Deutschen im September abstimmen. 
-
+  
 
 Stay tuned! Folgen Sie uns und treten Sie mit uns in Kontakt auf [Twitter](https://twitter.com/klimawahl), [Facebook](https://www.facebook.com/klimawahl) und per [Email](info@klimawahl2017.de).
