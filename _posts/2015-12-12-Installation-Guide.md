@@ -2,7 +2,6 @@
 layout: post
 title: "Installation Guide"
 author: "Paul Le"
-published: false
 categories: journal
 tags: [documentation,sample]
 image:
