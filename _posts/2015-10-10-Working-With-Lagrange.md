@@ -1,18 +1,19 @@
 ---
 title: Working With Lagrange
 date: 2015-10-10 00:00:00 Z
+published: false
 categories:
 - journal
 tags:
 - documentation
 - sample
-layout: post
 author: Paul Le
 image:
   feature: room.jpg
   teaser: room-teaser.jpg
   credit: 
   creditlink: 
+layout: post
 ---
 
 Lagrange was designed to be a minimalist theme in order for the focus to remain on your content.
