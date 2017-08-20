@@ -239,7 +239,8 @@ blockquote p {
 }
 
 .social-icons {
-  float: right;
+/* JPE  float: right; */
+  float: left; 
 }
 
 .social-icons a {
