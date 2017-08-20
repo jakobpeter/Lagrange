@@ -3,7 +3,6 @@ title: 'Bundestagswahl 2017: Wir müssen über Klimapolitik reden'
 date: 2017-08-11 11:25:00 Z
 tags:
 - Wahlprogrammanalyse
-- jekyll
 description: Es ist höchste Zeit, denn die Gletscher schmelzen uns davon. Read this
   post!
 author: Sebastian Kraus
