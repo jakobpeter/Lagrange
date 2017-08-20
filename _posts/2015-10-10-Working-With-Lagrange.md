@@ -1,7 +1,6 @@
 ---
 title: Working With Lagrange
 date: 2015-10-10 00:00:00 Z
-published: false
 categories:
 - journal
 tags:
