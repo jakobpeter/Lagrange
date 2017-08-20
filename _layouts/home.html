@@ -17,8 +17,10 @@ title: Home
 <!--  JPE  <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span> -->
 <!--  JPE    <span class="post-date" style="margin-top:3px"> {{ post.date | date_to_string }} - {% include read-time.html %} - von {{ post.author }}</span> -->
 <!--    <span class="post-date" style="margin-top:3px"> von {{ post.author }} - {{ post.date | date: "%-d. %B %Y" }}   --> 
-  <span class="post-date" style="margin-top:3px"> von {{ post.author }} | {{ post.date | date: "%-d.%m.%Y" }} </span> 
-<!--This is a comment. Comments are not displayed in the browser-->
+<!--  JPE  <span class="post-date" style="margin-top:3px"> von {{ post.author }} | {{ post.date | date: "%-d.%m.%Y" }} </span> --> 
+  <span class="post-date" style="margin-top:3px"> von {{ post.author }} | {{ post.date | date: "%-d.%m.%Y" }} | {% for tag in page.tags %} <a href="{{ 'tag/' | relative_url }}{{ tag }}">{{ tag }}</a>{% endfor %}</span> 
+
+    <!--This is a comment. Comments are not displayed in the browser-->
   </p>
 </div>
 {% endfor %}
