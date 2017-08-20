@@ -1,7 +1,6 @@
 ---
 title: Installation Guide
 date: 2015-12-12 00:00:00 Z
-published: false
 categories:
 - journal
 tags:
