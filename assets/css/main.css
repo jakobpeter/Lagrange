@@ -120,6 +120,10 @@ blockquote p {
   color: #999;
 }
 
+.masthead-logo {
+  float: right;
+}
+
 /*
   Post
 */
