@@ -18,11 +18,11 @@ layout: default
     {{ page.author }}
   {% else %}
     {{ site.data.settings.author.name }}
-  {% endif %} |
+  {% endif %} &nbsp;|&nbsp;
 <!--  {{ page.date | date: "%Y" }} -->
 <!--  {{ page.date | date: "%-d.%m.%Y" }}-->
-{{ page.date | date: "%-d.%m.%Y" }} 
-  | {{ post.tag }}
+{{ page.date | date: "%-d.%m.%Y" }} &nbsp;|&nbsp;
+{% for tag in post.tags %}{{ tag }} &nbsp; {% endfor %}
   
 </span>
 
