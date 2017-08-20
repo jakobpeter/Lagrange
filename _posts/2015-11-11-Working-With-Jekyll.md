@@ -1,14 +1,18 @@
 ---
+title: Working With Jekyll
+date: 2015-11-11 00:00:00 Z
+categories:
+- journal
+tags:
+- documentation
+- sample
 layout: post
-title: "Working With Jekyll"
-author: "Paul Le"
-categories: journal
-tags: [documentation,sample]
+author: Paul Le
 image:
   feature: bag.jpg
   teaser: bag-teaser.jpg
-  credit:
-  creditlink:
+  credit: 
+  creditlink: 
 ---
 
 ### Posts

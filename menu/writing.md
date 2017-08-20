@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Writing
+layout: page
 ---
+
 <ul class="posts">
   {% for post in site.posts %}
 

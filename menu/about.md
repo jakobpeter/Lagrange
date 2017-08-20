@@ -1,7 +1,4 @@
 ---
-title: Über uns
-/* permalink: "/about/" */
-layout: page
 ---
 
 klimawahl2017 ist eine Arena für Klimapolitik-Ansätze. Wir stellen Ideen aus Wissenschaft, Politik, Wirtschaft und Zivilgesellschaft einander gegenüber und arbeiten Knackpunkte heraus.

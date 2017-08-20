@@ -1,14 +1,18 @@
 ---
+title: Math and Code Formatting
+date: 2015-08-08 00:00:00 Z
+categories:
+- journal
+tags:
+- documentation
+- sample
 layout: post
-title: "Math and Code Formatting"
-author: "Paul Le"
-categories: journal
-tags: [documentation,sample]
+author: Paul Le
 image:
   feature: sewing.jpg
   teaser: sewing-teaser.jpg
-  credit:
-  creditlink:
+  credit: 
+  creditlink: 
 ---
 
 Lagrange comes out of the box with [MathJax](https://www.mathjax.org/) and syntax highlighting through [fenced code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/). MathJax allows you to display mathematical equations in your posts through the use of [LaTeX](http://www.andy-roberts.net/writing/latex/mathematics_1). Syntax highlighting allows you to display source code in different colors and fonts depending on what programming language is being displayed.
