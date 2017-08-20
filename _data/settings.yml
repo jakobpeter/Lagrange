@@ -1,13 +1,8 @@
-#title:  klimawahl
-#tagline: klimawahl ist eine Arena für Klimapolitik-Ansätze. Wir identifizieren Knackpunkte zwischen Wissenschaft, Politik, Wirtschaft und Zivilgesellschaft | klimawahl wird gemacht von einer unabhängigen Gruppe von Forschern und Journalisten. 
-#author: 
-#  name:  klimawahl
-  
-title:  Lagrange
-tagline:  a minimalist Jekyll theme
-author:
-  name: 'Paul Le'
-twitter: paululele
+title:  klimawahl
+tagline: klimawahl ist eine Arena für Klimapolitik-Ansätze. Wir identifizieren Knackpunkte zwischen Wissenschaft, Politik, Wirtschaft und Zivilgesellschaft | klimawahl wird gemacht von einer unabhängigen Gruppe von Forschern und Journalisten. 
+author: 
+  name:  klimawahl
+
 #  twitter:  paululele
 
 # Change to true for Disqus comments
